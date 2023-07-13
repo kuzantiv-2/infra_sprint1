@@ -1,5 +1,7 @@
 IP: 158.160.69.131;
 name_taski: https://kuzantivtaski.sytes.net;
+login: taski_admin;
+password: Pobochino2023;
 name_kittygram: https://kittgram.sytes.net;
 login: kitty_admin;
 password: Pobochino2023;
